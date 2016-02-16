@@ -1,0 +1,2 @@
+com.baidu.vmonitor.log.stargate.client.VMonitorStargateClientFilter
+com.baidu.vmonitor.log.stargate.client.VMonitorStargateServerFilter
